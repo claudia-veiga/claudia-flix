@@ -3,9 +3,17 @@ body{
     background-color: yellow;
     font-family: "Chakra Petch", sans-serif;
 }
-h1 {
-    font-size: 40px;
+header{
+border-bottom:solid 2px rgb(42,122,228);
+margin:20px ;
+font-size: 60px;
 }
-p {
-    font-size: 20px;
+img{
+    height: 200px;
 }
+.categoria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 10px;
+}
+
