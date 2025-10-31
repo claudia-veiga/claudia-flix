@@ -1,4 +1,11 @@
 body{
-    color: rgb(74, 35, 110);
-    background-color: black;
+    color: white;
+    background-color: yellow;
+    font-family: "Chakra Petch", sans-serif;
+}
+h1 {
+    font-size: 40px;
+}
+p {
+    font-size: 20px;
 }
