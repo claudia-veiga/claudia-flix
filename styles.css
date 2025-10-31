@@ -11,7 +11,7 @@ font-size: 60px;
 img{
     height: 200px;
 }
-.categoria-Vídeos {
+.categoria-Vídeos e séries {
     display: flex;
     overflow-x: auto;
     gap: 10px;
