@@ -1,7 +1,7 @@
-body{
-    color: black;
-    background-color: yellow;
-    margin: 0px; 
+body{ 
+color: red;
+background-color: yellowgreen;
+margin- 0px;
 }
 header{
 border-bottom:solid 2px rgb(42,122,228);
@@ -11,7 +11,7 @@ font-size: 60px;
 img{
     height: 200px;
 }
-.categoria-Vídeos e séries {
+.categoria-videos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
