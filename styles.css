@@ -1,7 +1,7 @@
 body{
     color: black;
     background-color: yellow;
-    font-family: "Chakra Petch", sans-serif;
+    margin: 0px; 
 }
 header{
 border-bottom:solid 2px rgb(42,122,228);
@@ -11,7 +11,7 @@ font-size: 60px;
 img{
     height: 200px;
 }
-.categoria-videos {
+.categoria-Vídeos {
     display: flex;
     overflow-x: auto;
     gap: 10px;
