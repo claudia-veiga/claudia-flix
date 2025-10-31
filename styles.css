@@ -1,15 +1,15 @@
 body{ 
 color: red;
-background-color: yellowgreen;
+background-color: #9acd32;
 margin- 0px;
 }
 header{
-border-bottom:solid 2px rgb(42,122,228);
+border-bottom:solid 2px rgb(228, 42, 79);
 margin:20px ;
 font-size: 60px;
 }
 img{
-    height: 200px;
+    height: 100px;
 }
 .categoria-videos {
     display: flex;
